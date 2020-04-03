@@ -66,8 +66,8 @@
 			children = (
 				0D04EBF524373F7F005DACFE /* meow.m4a */,
 				0D04EBF624373F7F005DACFE /* moo.m4a */,
-				0D04EBF324373F7E005DACFE /* SimpleSound.swift */,
 				0D04EBF424373F7F005DACFE /* woof.m4a */,
+				0D04EBF324373F7E005DACFE /* SimpleSound.swift */,
 				0D04EBDF24373E80005DACFE /* AppDelegate.swift */,
 				0D04EBE124373E80005DACFE /* SceneDelegate.swift */,
 				0D04EBE324373E80005DACFE /* ViewController.swift */,

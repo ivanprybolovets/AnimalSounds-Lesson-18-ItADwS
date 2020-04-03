@@ -12,9 +12,13 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
+    @IBAction func catButtonTapped(_ sender: UIButton) {
+    }
+    @IBAction func dogButtonTapped(_ sender: UIButton) {
+    }
+    @IBAction func cowButtonTapped(_ sender: UIButton) {
+    }
+    
 }
 
